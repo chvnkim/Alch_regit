@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: -24
-    y: 160.8
+    x: 7.2000003
+    y: 50.4
     width: 1521.6
     height: 766.4
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -272,8 +272,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 230.40001
-    y: 191.2
+    x: 261.6
+    y: 80.8
     width: 965.19995
     height: 504.59998
   m_SerializedDataModeController:
@@ -694,8 +694,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -24
-    y: 191.2
+    x: 7.2000003
+    y: 80.8
     width: 253.4
     height: 695.4
   m_SerializedDataModeController:
@@ -855,8 +855,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 230.40001
-    y: 716.8
+    x: 261.6
+    y: 606.4
     width: 965.19995
     height: 169.80005
   m_SerializedDataModeController:
@@ -890,7 +890,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: "D:\\\uC720\uB2C8\uD2F0\\Git_test"
+  m_LastProjectPath: "C:\\Users\\\uAE40\uBCD1\uCC2C\\Documents\\GitHub\\Alch_regit\\Git_test"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -1035,8 +1035,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1197.6
-    y: 191.2
+    x: 1228.8
+    y: 80.8
     width: 299
     height: 695.4
   m_SerializedDataModeController:
